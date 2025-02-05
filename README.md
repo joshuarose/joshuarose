@@ -1,7 +1,7 @@
 ### Hello, I'm Josh :wave:
 
-- 🔭 I’m currently working on a global connectivity platform for smart devices.
-- 🤔 I’m looking for help with finding folks interested in working on this with me!
+- 🔭 Currently working Internal Developer Platforms and Developer Experience Engineering
+- 🤔 If I can be helpful, let me know!
 - 💬 Ask me about Golang, Terraform, AWS, DevSecOps, Ruby, Android
 - 📫 How to reach me: [email](mailto:joshrose@hey.com) 
 - 😄 Pronouns: he/him/his
